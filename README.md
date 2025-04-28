@@ -1,0 +1,1 @@
+This is a basic project that includes a Face detection using python library openCv2 
